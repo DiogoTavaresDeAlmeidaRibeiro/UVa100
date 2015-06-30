@@ -1,6 +1,12 @@
 import java.io.IOException;
 import java.util.StringTokenizer;
 
+/**
+ * Class must be called Main, according to UVa
+ *
+ * @author DiogoRibeiro
+ *
+ */
 public class Main {
 
 	private static final int MAX_LINE_CHARS = 255;
